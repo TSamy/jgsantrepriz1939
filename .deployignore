@@ -1,0 +1,9 @@
+# Files and folders that must NOT be uploaded to the production server.
+_template-original/
+tools/
+media-source/
+tests/
+README.md
+.deployignore
+.gitattributes
+assets/video/README.md
